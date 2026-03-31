@@ -48,6 +48,7 @@ This tool provides a **more realistic picture** of your network performance.
 Make sure you have:
 
 * Python installed
+* https://www.python.org/downloads/
 * `curl` (for downloading the script)
 
 ---
