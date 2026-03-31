@@ -52,7 +52,7 @@ Make sure you have:
 
 ---
 
-## 📥 Installation (Using curl in CMD)
+## 📥 Installation (Using clone in CMD)
 
 ### Step 1: Download the script
 
@@ -61,7 +61,9 @@ curl -O https://github.com/mDintoka/Continuous-Speed-Test.git
 ```
 
 ### Step 2: Run the script
-
+```bash
+cd Continuous-Speed-Test
+```
 ```bash
 python speed_test.py
 ```
